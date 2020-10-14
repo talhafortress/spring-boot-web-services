@@ -9,11 +9,17 @@ The example uses maven as a build tool and also sample script to run on applicat
  2. JWT (0.6.0)
  3. Mysql
  4. Java 1.8
-
-# What Can you do?
+ 5. Swagger2
+ 6. Xampp
+ 7. Maven
+ 
+# What Can You Do?
 
 - Add product 
 - Add role 
 - Add new user etc.
+- Show params with Swagger2
+
+# Look up swagger pictures on repository folder
 
 # Talha Tosya
